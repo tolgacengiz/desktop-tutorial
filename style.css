@@ -1,0 +1,181 @@
+/* Main Color #ffc537   */
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+* {
+    outline: 0;
+}
+body , p , ul  {
+    margin: 0;
+    padding: 0;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 14px;
+    color: 222222;
+    background-color: #ffc537   
+}
+a {
+    text-decoration: none;
+}
+.strong {
+    font-size: 20px;
+}
+h1 {
+  color: #232846;
+  font-size: 35px;
+  
+
+}
+.clear {
+    clear: both;
+}
+.header {
+    width: 100%;
+    position: relative;
+}
+.main {
+    width: 1100px; 
+    margin: 0 auto;
+}
+.menu {
+     
+}
+.menu .logo {
+    float: left;
+    height: 150px;
+     
+}
+h2 {
+  float: left;
+  font-size: 25px;
+  background-color: #ffc537;
+
+}
+.navigation {
+  width: 100%;
+  border: 2px solid #232830;
+  background-color: #232846;
+
+}
+.main .navigation .nav {
+  display: inline-block;
+  
+}
+.main .navigation .nav ul {
+  list-style: none;
+}
+.main .navigation .nav ul li { 
+  float: left;
+  width: 260px;
+}
+.main .navigation .nav ul li a {
+  text-align: center;
+}
+.main .navigation .nav ul li a {
+  display:block;
+  font-weight: 600;
+  font-size: 16px;
+  color: #ffc537;
+  padding: 10px 10px;
+}
+.main .navigation .nav ul li a:hover {
+ background-color: #ffd161;
+}
+.main .navigation {
+ 
+  
+}
+.content {
+  width: 1100px; 
+  margin: 0 auto;
+  
+}
+.content .sidebar {
+  padding-top: 20px;
+  width: 200px;
+  border: 2px solid #232846;
+  float:left;
+}
+.content .sidebar ul {
+  list-style: none;
+}
+.content .sidebar ul li { 
+  display:block;
+  font-weight: 600;
+  font-size: 14px;
+  color: #232846;
+  padding: 10px 10px;
+}
+.content .sidebar .nav ul li a {
+  text-align: center;
+}
+
+.rightside {
+  width: 834px;
+  margin: 0;
+  float: right;
+}
+.rightside .content2 .text {
+  width: 450px;
+  float: right;
+}
+.rightside .content2 .text .text-content{
+  width: 350px;
+  float: right;
+  text-align: justify;
+}
+.rightside .content1 .image {
+  width: 250px;
+  float: left;
+  border: 1px solid #232846;
+  padding: 5px;
+}
+.rightside .content1 .image img{
+  width: 100%;
+}
+.rightside .content3 .text {
+  width: 450px;
+  float: left;
+}
+.rightside .content3 .text .text-content{
+  width: 350px;
+  float: left;
+  text-align: justify;
+}
+.rightside .content4 .image {
+  width: 250px;
+  float: right;
+  border: 1px solid #232846;
+  padding: 5px;
+}
+.rightside .content4 .image img{
+  width: 100%;
+}
+.footer {
+  width: 1100px; 
+  margin: 0 auto;
+}
+.navigation2 {
+  width: 100%;
+  border: 2px solid #232846;
+  background-color: gray;
+}
+.footer .navigation2 .nav2 {
+  display: inline-block; 
+}
+.footer .navigation2 .nav2 ul {
+  list-style: none;
+}
+.footer .navigation2 .nav2 ul li { 
+  float: left;
+  width: 260px;
+  
+}
+.footer .navigation2 .nav2 ul li a {
+  text-align: center;
+  
+}
+.footer .navigation2 .nav2 ul li a {
+  display:block;
+  font-weight: 600;
+  font-size: 16px;
+  color: #222222;
+  padding: 10px 10px;
+}
